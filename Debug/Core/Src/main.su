@@ -1,0 +1,17 @@
+../Core/Src/main.c:98:6:spi1_communication	16	static
+../Core/Src/main.c:124:6:lcd_set_cursor	16	static
+../Core/Src/main.c:144:6:lcd_clear_screen	24	static
+../Core/Src/main.c:182:6:lcd_init	8	static
+../Core/Src/main.c:321:6:lcd_write_byte	16	static
+../Core/Src/main.c:334:6:lcd_write_command	16	static
+../Core/Src/main.c:340:6:lcd_write_word	16	static
+../Core/Src/main.c:349:6:lcd_draw_dot	16	static
+../Core/Src/main.c:364:6:lcd_display_char	32	static
+../Core/Src/main.c:415:6:lcd_display_string	40	static
+../Core/Src/main.c:440:6:lcd_display_GB2312	32	static
+../Core/Src/main.c:481:5:main	24	static
+../Core/Src/main.c:532:6:SystemClock_Config	88	static
+../Core/Src/main.c:574:13:MX_SPI1_Init	8	static
+../Core/Src/main.c:612:13:MX_USART3_UART_Init	8	static
+../Core/Src/main.c:645:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:684:6:Error_Handler	4	static,ignoring_inline_asm
